@@ -1,0 +1,2 @@
+docker run -itd -v /python:/python --name python centos7.5:Python-3.7.0
+docker exec -it python /bin/bash
