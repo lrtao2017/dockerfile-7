@@ -3,7 +3,7 @@
 
 FROM centos7.5:yum
 
-MAINTAINER lrtao2010@yeah.net
+MAINTAINER lrtao2010@163.com
 
 RUN yum clean all && yum install gcc pcre pcre-devel zlib zlib-devel make -y 
 

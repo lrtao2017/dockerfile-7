@@ -3,7 +3,7 @@
 
 FROM scratch
 
-MAINTAINER lrtao2010@yeah.net
+MAINTAINER lrtao2010@163.com
 
 ADD centos-7-docker.tar.xz /
 
